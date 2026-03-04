@@ -6,7 +6,7 @@ int main()
 	//(Menu Driven means switch case)
 	
 	int num1,num2;
-	cout<<"\nEter 2 integers=";
+	cout<<"\nEnter 2 integers=";
 	cin>>num1>>num2;
 	
 	int choice;
@@ -37,3 +37,4 @@ int main()
 	
 	return 0;
 }
+
